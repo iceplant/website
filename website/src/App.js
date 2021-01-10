@@ -2,8 +2,6 @@
 import React, { useState } from 'react';
 import BlogWebsite from './BlogWebsite';
 import DevWebsite from './DevWebsite';
-import TodoApp from './Todo/App.tsx';
-
 
 
 function App() {
